@@ -1,2 +1,5 @@
+.ipynb_checkpoints/
+*__pycache__/
+*/out/
 *.npy
-out/
+*._.DS_Store
